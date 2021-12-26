@@ -1,0 +1,44 @@
+body{
+    background-color:limegreen;
+    font-weight:bold;
+    text-align:center;
+  }
+  .header{
+    font-size:80px;
+    color:blue;
+  }
+  .ibox{
+    background: black;
+    height:25px;
+    width:175px;
+    font-size:25px;
+    color:wheat;
+    text-align:center;
+    font-weight:bold;
+  }
+  #lblSide{
+    font-size:25px;
+    color:#B71C1C;
+  }
+  button{
+    font-size:25px;
+    font-weight:bold,initial;
+    background-color: orange;
+    border-radius:20px;
+    height:40px;
+    width: 70%;
+  }
+  #lblArea{
+    font-size:25px;
+    color:#7B1FA2;
+  }
+  #lblPerimeter{
+    font-size:25px;
+    color:#DD2C00
+  }
+  #ansArea{
+    font-size:25px;
+  }
+  #ansPerimeter{
+    font-size:25px;
+  }
